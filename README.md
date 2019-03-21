@@ -18,6 +18,12 @@
 | For example (115200,N,8,1) | 55 AA 55      | 01 C2 00                                 | 83                                            | 83                        |
 | For example (9600,N,8,1)   | 55 AA 55      | 00 25 80                                 | 83                                            | 83                        |
 
+```
+Test bits
+55AA5501C2008346 For 115200 N,8,1
+55AA550025808328 For 9600 N,8,1
+```
+
 
 **Appendix: UART bits setting detail.**
 
